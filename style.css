@@ -7,7 +7,7 @@
     width: 400px;
     margin: auto;
     margin-top: 7rem;
-    background-color:rgb(72, 92, 242);
+    background-color:rgb(242, 72, 72);
     box-shadow: rgba(0, 0, 0, 0.45) 0px 5px 15px;
     
 }
@@ -23,17 +23,14 @@
 }
 
 #btn {
-    background-color: rgb(125, 9, 94);
+    background-color: rgb(102, 6, 25);
 
 }
-#btn:hover
-{
-background-color:burlywood;
-}
+
 
 input[type=button] {
     font-family: 'Orbitron', sans-serif;
-    background-color: #f408a9;
+    background-color: #89141b;
     color: white;
     border: solid black 0.5px;
     width: 100%;
@@ -44,7 +41,7 @@ input[type=button] {
 }
 input[type=button]:hover
 {
-background-color:peachpuff;
+background-color:rgb(222, 83, 83);
 transition: 0.5s;
 }
 
